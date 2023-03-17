@@ -1,2 +1,2 @@
-# -Depth-analysis-on-the-titanic-dataset
- depth analysis on the titanic dataset
+# Titanic-EDA
+Exploratory Data Analysis on the Titanic dataset
